@@ -1,0 +1,97 @@
+body{
+    background-color: #0F0F0F;
+    color: white;
+}
+html{
+    height: 100%;
+}
+p{
+    text-align: justify;
+}
+
+.iconic-color{
+    color: #CBFD00;
+}
+
+.profile-img{
+    height: 80vw;
+    max-height: 40rem;
+    bottom: 0;
+}
+
+.btn-color-1{
+    background-color: #CBFD00;
+    font-weight: lighter;
+    border-color: #1F2700;
+}
+
+.btn-color-1:hover{
+    background-color: #333f03;
+    border-color: #CBFD00;
+    color: white;
+}
+
+.btn-color-2{
+    background-color: #0F0F0F;
+    border-color: #CBFD00;
+    color: white;
+}
+
+.btn-color-2:hover{
+    background-color: #333f03;
+    border-color: black;
+    color: ;
+}
+
+
+#about-section{
+    background-color: #1B1C1E;
+}
+
+.text-gradient {
+    background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.icon-hover-color:hover{
+    background: -webkit-linear-gradient(315deg, #3da10f 0%, #06e9cb 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Resume Index */
+
+.R-color{
+    background-color: #222A04;
+}
+
+
+
+
+
+.card-title{
+    text-align: center;
+}
+
+.cd-btn{
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    font-weight: bold;
+    border-color: #a0c50c;
+    color: white;
+}
+
+.cd-btn:hover{
+    background-image: linear-gradient(to right bottom, #7b8594, #41a4c1, #00c5c1, #00de89, #a8eb12);
+    border-color: black;
+    color: black;
+}
+
+.contact .btn-outline-primary{
+    border: 1px solid #5E3BEE;
+    color: #5E3BEE;
+  }
+  .contact .btn-outline-primary:hover{
+    background-color: transparent;
+    color: #5E3BEE !important;
+  }
